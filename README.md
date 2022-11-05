@@ -35,3 +35,14 @@ Lot Test 3
 ![image](https://github.com/TSheridan01/MechaCar_Statistical_Analysis/blob/3199ad5ffcf8ec4ab9ab390f521bcc8386f9c59c/Resources/3%203.png)
 
 
+## Study Design: MechaCar vs Competition
+
+
+When comparing our MechaCar to its competitor’s; Many metrics that will be of interest should be tested for the consumer to include price, design, fuel efficiency, horsepower, and safety features. The consumer may also like the carbon waste outputed to be lower. 
+
+A null hypothesis will be that these metrics do not vary from the competition, and the alternative hypothesis will be that the MechaCar do  vary significantly in these variables compared to the competition.
+
+
+
+
+
